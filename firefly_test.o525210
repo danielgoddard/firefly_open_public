@@ -1,0 +1,17 @@
+=======================================================
+TORQUE job submitted on Sat Nov 21 22:05:55 GMT 2015
+JOB ID: 525210.headnode1.prv.sciama.cluster
+JOB NAME: firefly_test
+QUEUE: cluster.q
+MASTER: node140.prv.sciama.cluster
+Num Hosts: 1
+Num Tasks: 1
+Nodes used:
+node140
+=======================================================
+Job Output Follows:
+=======================================================
+
+==========================================================================
+Torque job completed on Sat Nov 21 22:05:55 GMT 2015 with exit status of 0
+==========================================================================

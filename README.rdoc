@@ -1,0 +1,13 @@
+== FIREFLY
+
+Fitting IteRativEly For Likelihood analYsis
+
+This project will become the publically accessible version of FIREFLY.
+
+Currently it is being used for testing among the ICG’s galaxy group.
+It is unlicensed - so do not share it!
+
+
+Author: <em>David Wilkinson, david.wilkinson@port.ac.uk</em>
+
+Collaborators: Claire Le Cras, Daniel Goddard, Xan Morice-Atkinson, Claudia Maraston
